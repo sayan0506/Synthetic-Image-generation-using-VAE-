@@ -9,3 +9,4 @@ Reference:
 * [Monte-Carlo integration](https://www.youtube.com/watch?v=MKnjsqYVG4Y)
 * [Python Implementation of Monte-Carlo integration](https://www.youtube.com/watch?v=WAf0rqwAvgg)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+* [VAE](https://github.com/kartikgill/Autoencoders/blob/main/Variational%20Autoencoder.ipynb)
