@@ -8,3 +8,4 @@ Reference:
 * [Generative Adversial Neural Network](https://www.youtube.com/watch?v=RRTuumxm3CE&list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu)
 * [Monte-Carlo integration](https://www.youtube.com/watch?v=MKnjsqYVG4Y)
 * [Python Implementation of Monte-Carlo integration](https://www.youtube.com/watch?v=WAf0rqwAvgg)
+* [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
